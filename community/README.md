@@ -9,12 +9,12 @@
 
 ---
 
-# Nome Sobrenome
-Breve descrição sobre você.
+# Maria Jessiane
+Estudante de Análise e Desenvolvimento de Sistemas - UniFatecie - 2º período e de Engenharia Civil de Infraestrutura - UFSC - 5º período. Estagiei durante 2 anos na área de Estatística Aplicada à Processos Seletivos. Nesse trabalho, desenvolvi códigos para automatizar relatórios estatísticos (análise exploratória de dados e testes de hipóteses) através das linguagens R e Python. Além disso, utilizei o Excel para tratamento de dados.
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/SEUUSERNAME/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:SEUEMAIL@outlook.com)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/mjessiane/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:mjessiane@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/SEUUSERNAME/)
 
 
